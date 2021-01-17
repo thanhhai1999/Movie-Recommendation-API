@@ -1,6 +1,6 @@
 # Movie-Recommendation-API
 
-- API Link : 
+- API Link : https://movie-recommendation-ml.herokuapp.com/
 
 An open movie recommendation API that has been built using Python and deployed on Heroku. 
 This API is based on the Content-Based Filtering technique used in recommendation systems where we recommend items to a user based on the input item's attributes. 
